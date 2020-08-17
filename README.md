@@ -13,7 +13,7 @@ V1.0
 
 - ## Installation
   
-  Simply copy all of the files from the reposity into a folder called "Label Maker" inside your Vectric Aspire Gadgets folder. (Usually located in Public Documents/Vectric Files/)
+  Simply copy all of the files from the repository into a folder called "Label Maker" inside your Vectric Aspire Gadgets folder. (Usually located in Public Documents/Vectric Files/)
 
 # Plugin Breakdown
 
